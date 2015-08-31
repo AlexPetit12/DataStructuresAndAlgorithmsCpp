@@ -1,0 +1,1 @@
+SelectSort.d: ../SelectSort.cpp
