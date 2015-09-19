@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;SelectSort&apos; to &apos;SelectionSort&apos;" description="Rename resource &apos;SelectSort&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SelectSort" name="SelectionSort" stamp="1441069675981" updateReferences="true"/>
-</session>
