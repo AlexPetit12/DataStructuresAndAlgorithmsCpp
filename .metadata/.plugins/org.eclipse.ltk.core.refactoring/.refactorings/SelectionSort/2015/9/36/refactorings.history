@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SelectionSort/SelectSort.cpp&apos; to &apos;SelectionSort.cpp&apos;" description="Rename resource &apos;SelectSort.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="SelectSort.cpp" name="SelectionSort.cpp" stamp="1441069688437" updateReferences="true"/>
+</session>

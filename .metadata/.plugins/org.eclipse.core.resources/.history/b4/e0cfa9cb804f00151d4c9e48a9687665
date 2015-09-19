@@ -1,0 +1,19 @@
+/*
+ * SelectSort.cpp
+ *
+ *  Created on: Aug 30, 2015
+ *      Author: Alex
+ */
+
+#include <algorithm>
+#include <iostream>
+#include <vector>
+using namespace std;
+
+template class<T>
+void SelectSort(vector<T> &v)
+{
+
+}
+
+

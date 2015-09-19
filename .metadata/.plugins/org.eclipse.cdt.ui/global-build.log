@@ -1,0 +1,162 @@
+21:30:48 **** Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:30:53 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:31:04 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:31:04 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:31:05 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:31:06 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:31:10 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:31:10 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:31:11 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:31:11 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:07 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:07 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:34:07 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:08 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:21 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:22 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:34:22 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:23 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:38 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:38 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:34:39 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:34:40 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:36:24 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:36:25 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:36:26 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:36:26 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:37:32 **** Incremental Build of configuration Debug for project BubbleSort ****
+make all 
+make: Nothing to be done for `all'.
+21:37:32 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+Building file: ../InsertionSort.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"InsertionSort.d" -MT"InsertionSort.d" -o "InsertionSort.o" "../InsertionSort.cpp"
+Finished building: ../InsertionSort.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./InsertionSort.o   
+Finished building target: InsertionSort
+ 
+21:37:33 **** Incremental Build of configuration Debug for project SelectionSort ****
+make all 
+make: Nothing to be done for `all'.
+21:37:33 **** Incremental Build of configuration Debug for project InsertionSort ****
+make all 
+make: Nothing to be done for `all'.

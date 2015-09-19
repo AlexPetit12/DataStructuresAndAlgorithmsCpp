@@ -1,0 +1,35 @@
+/*
+ * BubbleSort.cpp
+ *
+ *  Created on: Aug 30, 2015
+ *      Author: Alex
+ */
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+void BubbleSort(vector<int> &v)
+{
+	bool swapped = false;
+	do
+	{
+		for(int i = 0; i < v.size() - 1; i++)
+		{
+			if(v[i] > v[i] + 1)
+			{
+				swap(v[i], v[i + 1]);
+				swapped = true;
+			}
+		}
+	} while(!swapped);
+}
+
+int main()
+{
+	return 0;
+}
+
+
+
+
